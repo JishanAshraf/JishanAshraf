@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I'm Jishan Ashraf
 
-<!--
-**JishanAshraf/JishanAshraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A developer and creative designer passionate about turning ideas into interactive experiences.  
+I work across **Java**, **Kotlin**, and **UI/UX design**, building apps that look good *and* feel good.  
 
-Here are some ideas to get you started:
+### 💡 What I Do
+- 📱 Android & App Development (Java / Kotlin)
+- 🎨 UI/UX & Creative Design
+- 🎮 Game Development & Interactive Experiences
+- 💻 Exploring new tech to merge creativity with code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently
+- Designing modern app interfaces  
+- Experimenting with gameplay mechanics and animation  
+
+> “Design the experience. Code the magic.”
