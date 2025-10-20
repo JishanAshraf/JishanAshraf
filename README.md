@@ -13,4 +13,3 @@ I work across **Java**, **Kotlin**, and **UI/UX design**, building apps that loo
 - Designing modern app interfaces  
 - Experimenting with gameplay mechanics and animation  
 
-> “Design the experience. Code the magic.”
